@@ -18,9 +18,9 @@
 
 This is `text`
 
-...
+```
 This is a long quote.
-...
+```
 
 
 - [X] this is checked
