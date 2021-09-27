@@ -11,3 +11,20 @@
 
 [我的網頁](https://www.nkust.edu.tw/)
 
+![new fig](tea.jpg "tea")
+
+
+
+
+This is `text`
+
+...
+This is a long quote.
+...
+
+
+- [X] this is checked
+- [ ] undo
+- [ ] 2nd job
+- [ ] 3rd job
+- [ ] 4th job
